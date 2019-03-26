@@ -49,12 +49,10 @@
 房租：套房月租 RMB 7000 ~ 12000，約台幣三萬多至五萬多。
 
 街景<br>
-<img style="width:800px;max-width:90%;" src="
-https://melixyen.github.io/a/bmg/bj_c2.JPG
-">
+![](https://melixyen.github.io/a/bmg/bj_c2.JPG)
 
 [環景](https://melixyen.github.io/a/bcr/crvu.html?c_bj_c2.jpg)
-<iframe style="width:800px;max-width:90%; min-height:240px;" src="https://melixyen.github.io/a/bcr/crvu.html?c_bj_c2.jpg"></iframe>
+<iframe style="width:1600px;max-width:90%; height:600px;max-height:90vh" src="https://melixyen.github.io/a/bcr/crvu.html?c_bj_c2.jpg"></iframe>
 
 北京東城區與朝陽區的交界，機關中樞區域，附近有不少飯店，整體比較接近中正
 區的感覺，商圈在更靠近天安門附近的王府井。北京車站也在這裡，但北京車站並
@@ -72,18 +70,12 @@ https://melixyen.github.io/a/bmg/bj_c2.JPG
 房租：套房月租 RMB 8000 ~ 13500，約台幣三萬多至六萬。
 
 街景<br>
-<img style="width:800px;max-width:90%;" src="
-https://melixyen.github.io/a/bmg/bj_c3_1.JPG
-">
-<img style="width:800px;max-width:90%;" src="
-https://melixyen.github.io/a/bmg/bj_c3_2.JPG
-">
-<img style="width:800px;max-width:90%;" src="
-https://melixyen.github.io/a/bmg/bj_c3_3.JPG
-">
+![]( https://melixyen.github.io/a/bmg/bj_c3_1.JPG )
+![]( https://melixyen.github.io/a/bmg/bj_c3_2.JPG )
+![]( https://melixyen.github.io/a/bmg/bj_c3_3.JPG )
 
 [環景](https://melixyen.github.io/a/bcr/crvu.html?c_bj_c3.jpg)
-<iframe style="width:800px;max-width:90%; min-height:240px;" src="https://melixyen.github.io/a/bcr/crvu.html?c_bj_c3.jpg"></iframe>
+<iframe style="width:1600px;max-width:90%; height:600px;max-height:90vh" src="https://melixyen.github.io/a/bcr/crvu.html?c_bj_c3.jpg"></iframe>
 
 和信義計劃區一樣，國貿是北京的 CBD 所在，幾乎所有頂尖外商總部都選擇在這
 裡，也算是北京商業門面。由於市中心商業區的關係，一般住宅在附近其他地鐵站
@@ -108,15 +100,11 @@ https://melixyen.github.io/a/bmg/bj_c3_3.JPG
 房租：套房月租 RMB 6000 ~ 8000，約台幣兩萬七至三萬六。
 
 街景<br>
-<img style="width:800px;max-width:90%;" src="
-https://melixyen.github.io/a/bmg/bj_c4_1.JPG
-">
-<img style="width:800px;max-width:90%;" src="
-https://melixyen.github.io/a/bmg/bj_c4_2.JPG
-">
+![]( https://melixyen.github.io/a/bmg/bj_c4_1.JPG )
+![]( https://melixyen.github.io/a/bmg/bj_c4_2.JPG )
 
 [環景](https://melixyen.github.io/a/bcr/crvu.html?c_bj_c4.jpg)
-<iframe style="width:800px;max-width:90%; min-height:240px;" src="https://melixyen.github.io/a/bcr/crvu.html?c_bj_c4.jpg"></iframe>
+<iframe style="width:1600px;max-width:90%; height:600px;max-height:90vh" src="https://melixyen.github.io/a/bcr/crvu.html?c_bj_c4.jpg"></iframe>
 
 四惠交通樞紐，設有轉運站，和目前南港東區門戶計劃南港轉運站不謀而合。
 
@@ -131,12 +119,10 @@ https://melixyen.github.io/a/bmg/bj_c4_2.JPG
 房租：套房月租 RMB 5000 ~ 6000，約台幣兩萬多元。
 
 街景<br>
-<img style="width:800px;max-width:90%;" src="
-https://melixyen.github.io/a/bmg/bj_c4_a.JPG
-">
+![]( https://melixyen.github.io/a/bmg/bj_c4_a.JPG )
 
 [環景](https://melixyen.github.io/a/bcr/crvu.html?c_bj_c4_1.jpg)
-<iframe style="width:800px;max-width:90%; min-height:240px;" src="https://melixyen.github.io/a/bcr/crvu.html?c_bj_c4_1.jpg"></iframe>
+<iframe style="width:1600px;max-width:90%; height:600px;max-height:90vh" src="https://melixyen.github.io/a/bcr/crvu.html?c_bj_c4_1.jpg"></iframe>
 
 地鐵一號線的終點，繼續往東的旅客均在此站下車轉乘八通線。
 
@@ -158,15 +144,11 @@ https://melixyen.github.io/a/bmg/bj_c4_a.JPG
 房租：套房月租 RMB 4500，約台幣兩萬元。
 
 街景<br>
-<img style="width:800px;max-width:90%;" src="
-https://melixyen.github.io/a/bmg/bj_c5_1.JPG
-">
-<img style="width:800px;max-width:90%;" src="
-https://melixyen.github.io/a/bmg/bj_c5_2.JPG
-">
+![]( https://melixyen.github.io/a/bmg/bj_c5_1.JPG )
+![]( https://melixyen.github.io/a/bmg/bj_c5_2.JPG )
 
 [環景](https://melixyen.github.io/a/bcr/crvu.html?c_bj_c5_1.jpg)
-<iframe style="width:800px;max-width:90%; min-height:240px;" src="https://melixyen.github.io/a/bcr/crvu.html?c_bj_c5_1.jpg"></iframe>
+<iframe style="width:1600px;max-width:90%; height:600px;max-height:90vh" src="https://melixyen.github.io/a/bcr/crvu.html?c_bj_c5_1.jpg"></iframe>
 
 進入市郊地帶，鐵路平面建在公路中間，和省道台五線汐止段旁即為火車鐵
 路類似。
@@ -182,15 +164,11 @@ https://melixyen.github.io/a/bmg/bj_c5_2.JPG
 房租：套房月租 RMB 4300，約台幣 19000 元。
 
 街景<br>
-<img style="width:800px;max-width:90%;" src="
-https://melixyen.github.io/a/bmg/bj_c5_a1.JPG
-">
-<img style="width:800px;max-width:90%;" src="
-https://melixyen.github.io/a/bmg/bj_c5_a2.JPG
-">
+![]( https://melixyen.github.io/a/bmg/bj_c5_a1.JPG )
+![]( https://melixyen.github.io/a/bmg/bj_c5_a2.JPG )
 
 [環景](https://melixyen.github.io/a/bcr/crvu.html?c_bj_c5_2.jpg)
-<iframe style="width:800px;max-width:90%; min-height:240px;" src="https://melixyen.github.io/a/bcr/crvu.html?c_bj_c5_2.jpg"></iframe>
+<iframe style="width:1600px;max-width:90%; height:600px;max-height:90vh" src="https://melixyen.github.io/a/bcr/crvu.html?c_bj_c5_2.jpg"></iframe>
 
 有市郊生活圈商場，典型市區邊緣衛星城市格局。鐵路在此地高架通過，與
 汐止車站一樣由鐵路高架下方進站。
@@ -223,12 +201,10 @@ https://melixyen.github.io/a/bmg/bj_c5_a2.JPG
 房租：套房月租 RMB 4500，約台幣兩萬元。
 
 街景<br>
-<img style="width:800px;max-width:90%;" src="
-https://melixyen.github.io/a/bmg/bj_c6_1.JPG
-">
+![]( https://melixyen.github.io/a/bmg/bj_c6_1.JPG )
 
 [環景](https://melixyen.github.io/a/bcr/crvu.html?c_bj_c6_1.jpg)
-<iframe style="width:800px;max-width:90%; min-height:240px;" src="https://melixyen.github.io/a/bcr/crvu.html?c_bj_c6_1.jpg"></iframe>
+<iframe style="width:1600px;max-width:90%; height:600px;max-height:90vh" src="https://melixyen.github.io/a/bcr/crvu.html?c_bj_c6_1.jpg"></iframe>
 
 接近八通線終點，但因為生活機能健全交通便利，房價房租都沒有隨著距離
 遞減，在離北京城中心 20 公里還能維持價格帶。不過這是以車站周圍而言，
@@ -245,18 +221,12 @@ https://melixyen.github.io/a/bmg/bj_c6_1.JPG
 房租：套房月租 RMB 4300，約台幣 19000 元。
 
 街景<br>
-<img style="width:800px;max-width:90%;" src="
-https://melixyen.github.io/a/bmg/bj_c6_b1.JPG
-">
-<img style="width:800px;max-width:90%;" src="
-https://melixyen.github.io/a/bmg/bj_c6_b3.JPG
-">
-<img style="width:800px;max-width:90%;" src="
-https://melixyen.github.io/a/bmg/bj_c6_b7.JPG
-">
+![]( https://melixyen.github.io/a/bmg/bj_c6_b1.JPG )
+![]( https://melixyen.github.io/a/bmg/bj_c6_b3.JPG )
+![]( https://melixyen.github.io/a/bmg/bj_c6_b7.JPG )
 
 [環景](https://melixyen.github.io/a/bcr/crvu.html?c_bj_c6_3.jpg)
-<iframe style="width:800px;max-width:90%; min-height:240px;" src="https://melixyen.github.io/a/bcr/crvu.html?c_bj_c6_3.jpg"></iframe>
+<iframe style="width:1600px;max-width:90%; height:600px;max-height:90vh" src="https://melixyen.github.io/a/bcr/crvu.html?c_bj_c6_3.jpg"></iframe>
 
 重劃新蓋區域，加上在京杭大運河兩側而整理的運河公園，環境相當舒適，
 不過當天從這裡搭地鐵六號線回到三環的呼家樓站車程已搭上快半小時。
@@ -266,29 +236,19 @@ https://melixyen.github.io/a/bmg/bj_c6_b7.JPG
 基隆或桃園的感覺嗎？
 
 重劃區拆遷前<br>
-<img style="width:800px;max-width:90%;" src="
-https://melixyen.github.io/a/bmg/bj_c6_c2.JPG
-">
+![]( https://melixyen.github.io/a/bmg/bj_c6_c2.JPG )
 
 重劃區蓋好後<br>
-<img style="width:800px;max-width:90%;" src="
-https://melixyen.github.io/a/bmg/bj_c6_c1.JPG
-">
+![]( https://melixyen.github.io/a/bmg/bj_c6_c1.JPG )
 
 東六環公路<br>
-<img style="width:800px;max-width:90%;" src="
-https://melixyen.github.io/a/bmg/bj_c6_c4.JPG
-">
+![]( https://melixyen.github.io/a/bmg/bj_c6_c4.JPG )
 
 離峰時段道路看板預估通州新城至三環的開車時間<br>
-<img style="width:800px;max-width:90%;" src="
-https://melixyen.github.io/a/bmg/bj_c6_c6.JPG
-">
+![]( https://melixyen.github.io/a/bmg/bj_c6_c6.JPG )
 
 運河邊的河濱公園<br>
-<img style="width:800px;max-width:90%;" src="
-https://melixyen.github.io/a/bmg/bj_c6_d2.JPG
-">
+![]( https://melixyen.github.io/a/bmg/bj_c6_d2.JPG )
 
 
 [影片-六環通州](https://youtu.be/3LRM1J4Mxmw)
@@ -312,25 +272,19 @@ https://melixyen.github.io/a/bmg/bj_c6_d2.JPG
 房租：套房月租 RMB 1500，約台幣 7000 元。
 
 街景<br>
-<img style="width:800px;max-width:90%;" src="
-https://melixyen.github.io/a/bmg/bj_c7_1.JPG
-">
+![]( https://melixyen.github.io/a/bmg/bj_c7_1.JPG )
 
 大型購物中心 AEON 也開在此<br>
-<img style="width:800px;max-width:90%;" src="
-https://melixyen.github.io/a/bmg/bj_c7_2.JPG
-">
+![]( https://melixyen.github.io/a/bmg/bj_c7_2.JPG )
 
 整排房子<br>
-<img style="width:800px;max-width:90%;" src="
-https://melixyen.github.io/a/bmg/bj_c7_8.JPG
-">
+![]( https://melixyen.github.io/a/bmg/bj_c7_8.JPG )
 
 [環景1](https://melixyen.github.io/a/bcr/crvu.html?c_bj_c7_1.jpg)
-<iframe style="width:800px;max-width:90%; min-height:240px;" src="https://melixyen.github.io/a/bcr/crvu.html?c_bj_c7_1.jpg"></iframe>
+<iframe style="width:1600px;max-width:90%; height:600px;max-height:90vh" src="https://melixyen.github.io/a/bcr/crvu.html?c_bj_c7_1.jpg"></iframe>
 
 [環景2](https://melixyen.github.io/a/bcr/crvu.html?c_bj_c7_2.jpg)
-<iframe style="width:800px;max-width:90%; min-height:240px;" src="https://melixyen.github.io/a/bcr/crvu.html?c_bj_c7_2.jpg"></iframe>
+<iframe style="width:1600px;max-width:90%; height:600px;max-height:90vh" src="https://melixyen.github.io/a/bcr/crvu.html?c_bj_c7_2.jpg"></iframe>
 
 雖然有著青埔的距離，不過一下交流道就是大商城跟整叢整叢房子，讓台北人熟悉的南崁
 味道在燕郊出現。
@@ -357,20 +311,54 @@ https://melixyen.github.io/a/bmg/bj_c7_8.JPG
 幾乎已經不可能從這種地方通勤了，但還是有
 
 七環街景<br>
-<img style="width:800px;max-width:90%;" src="
-https://melixyen.github.io/a/bmg/bj_c7_5.JPG
-">
+![]( https://melixyen.github.io/a/bmg/bj_c7_5.JPG )
+
 但遠方還有新市鎮<br>
-<img style="width:800px;max-width:90%;" src="
-https://melixyen.github.io/a/bmg/bj_c7_6.JPG
-">
+![]( https://melixyen.github.io/a/bmg/bj_c7_6.JPG )
+
 村落以外都是枯木林<br>
-<img style="width:800px;max-width:90%;" src="
-https://melixyen.github.io/a/bmg/bj_c7_7.JPG
-">
+![]( https://melixyen.github.io/a/bmg/bj_c7_7.JPG )
 
 [環景1](https://melixyen.github.io/a/bcr/crvu.html?c_bj_c7_3.jpg)
-<iframe style="width:800px;max-width:90%; min-height:240px;" src="https://melixyen.github.io/a/bcr/crvu.html?c_bj_c7_3.jpg"></iframe>
+<iframe style="width:1600px;max-width:90%; height:600px;max-height:90vh" src="https://melixyen.github.io/a/bcr/crvu.html?c_bj_c7_3.jpg"></iframe>
 
 [環景2](https://melixyen.github.io/a/bcr/crvu.html?c_bj_c7_4.jpg)
-<iframe style="width:800px;max-width:90%; min-height:240px;" src="https://melixyen.github.io/a/bcr/crvu.html?c_bj_c7_4.jpg"></iframe>
+<iframe style="width:1600px;max-width:90%; height:600px;max-height:90vh" src="https://melixyen.github.io/a/bcr/crvu.html?c_bj_c7_4.jpg"></iframe>
+
+# 環區對照
+
+如同台北，距離不是經濟、房價、交通的絕對關係，北京二環三環一樣有看似廢墟般
+的破房子，沒有公車或地鐵設站的區塊，沒整理的胡同巷弄，但它還是二環三環。
+也和台北向東發展一樣，北京朝陽區至通州也一路往東發展，同環數較其他邊更佳。
+只按照距離，大概可以針對北京與台北都會區的相對位置做下列轉換：
+
+* 環內城區：大同、萬華、中山、中正、大安靠近台北車站區域。
+* 二環：圓山、東區、古亭、雙園、三重。
+* 三環：士林、松山、信義、公館、永和、板橋新埔、新莊頭前。
+* 四環：北投、內湖、南港、文山、新店、板橋、新莊、蘆洲。
+* 五環：淡水、汐止、土城、樹林、林口。
+* 六環：基隆、三峽、鶯歌、桃園、南崁。
+* 七環：瑞芳、中壢青埔、平鎮。如果北京算到三河，那台北已經可到竹北了。
+
+不過北京因為地型方正，不像台北盆地中心在淡水河新店溪大漢溪匯流口附近，同
+環數發展的落差沒有台北那麼明顯。即便如此，在發展新區域時跨距仍然跳的比台
+北還要遠很多，其實像朝陽區到通州新城間還有不少枯木林地，通州到燕郊間也是
+大片枯木林，幾乎是靠著古時村莊周圍先發展重劃而不是從市區一路連續重劃過去
+的，因此可容納人口其實還很多。然而每個國家有不同土地政策，也許那些林地始
+終不會開發也不一定。
+
+## 簡易鐵路對照
+
+　　　　　　　南<br>
+台　忠　　　　港<br>
+北　孝　市　　展<br>
+車　敦　政　南覽　汐汐　七　基<br>
+站　化　府　港館　科止　堵　隆<br>
+＝　　　　　＝＝＝＝＝＝＝＝＝台鐵＼基隆輕軌<br>
+＝＝＝＝＝＝＝＝板南線<br>
+＝＝＝＝＝＝＝＝一號線<br>
+　　　　　　＝＝＝＝＝＝＝＝＝八通線<br>
+天　建　國　四四　傳雙　通　土<br>
+安　國　貿　惠惠　媒橋　州　橋<br>
+門　門　　　　東　大　　北<br>
+東　　　　　　　　學　　苑<br>
