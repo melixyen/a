@@ -1,0 +1,291 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html lang="zh-TW" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width; initial-scale=1.0" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+<title>雲南日程</title>
+<style type="text/css">
+@charset "utf-8";
+
+body {
+	/*font-family:'細明體', "PMingLiU";*/
+    font-family: sans-serif, Arial, 'Microsoft JhengHei', 'PMingLiU', 'STFangsong';
+	font-size: 15px;
+	margin: 0px;
+    height: 100%;
+}
+.bs_no_select{
+   -o-user-select:none;
+   -moz-user-select: none;
+   -ms-user-select: none;
+   -webkit-user-select: none;
+   user-select: none;
+}
+a {
+    color: blue;
+}
+a.bm{
+    color: white;
+}
+
+#dateDiv {
+    display: flex;
+   -moz-user-select: none;
+   -ms-user-select: none;
+   -webkit-user-select: none;
+   user-select: none;
+   overflow-x: auto;
+}
+#dateDiv .btnDate{
+    margin: 10px;
+    padding: 20px 10px;
+    text-align: center;
+    background-color: #3355CC;
+    color: #efefef;
+    font-size: 18px;
+    border: 1px solid transparent;
+    border-radius: 10px;
+    flex: 1;
+}
+
+.content {
+    margin: 2px;
+    border-top: 4px solid #C45;
+}
+
+.ct1 {
+    padding: 20px;
+    font-size: 15px;
+}
+
+</style>
+
+<script type="text/javascript">
+
+var TT = {};
+
+TT.initFn = function(){
+}
+</script>
+<!-- -->
+<!-- -->
+</head>
+<body onload="TT.initFn()">
+    <div id="dateDiv">
+        <div class="btnDate" v-on:click="setDate('0427')" v-bind:style="getDCSS('0427')">04/27</div>
+        <div class="btnDate"><a href="#b0428" class="bm">04/28</a></div>
+        <div class="btnDate"><a href="#b0429" class="bm">04/29</a></div>
+        <div class="btnDate"><a href="#b0430" class="bm">04/30</a></div>
+        <div class="btnDate"><a href="#b0501" class="bm">05/01</a></div>
+        <div class="btnDate"><a href="#b0502" class="bm">05/02</a></div>
+        <div class="btnDate"><a href="#b0503" class="bm">05/03</a></div>
+        <div class="btnDate"><a href="#b0504" class="bm">05/04</a></div>
+    </div>
+    <div id="main">
+        <div class="content" v-if="(date=='0427')">
+            <div>14:05北京飛昆明17:30</div>
+            <div><ul>
+                    <li><a href="https://kunming.8684.cn/" target="_blank">掌上公交-昆明公交</a></li>
+                    <li><a href="https://dali.8684.cn/" target="_blank">掌上公交-大理公交</a></li>
+                    <li><a href="https://lijiang.8684.cn/" target="_blank">掌上公交-麗江公交</a></li>
+                    <li><a href="http://bus.mapbar.com/kunming/xianlu/" target="_blank">圖吧昆明公交</a></li>
+                    <li><a href="http://bus.mapbar.com/dali/xianlu/" target="_blank">圖吧大理公交</a></li>
+                    <li><a href="http://bus.mapbar.com/lijiang/xianlu_1/" target="_blank">圖吧麗江公交</a></li>
+                    <li><a href="http://dali.gongjiao.com/" target="_blank">公交網大理公交</a></li>
+                    <li><a href="http://lijiang.gongjiao.com/" target="_blank">公交網麗江公交</a></li>
+                    <li>=============</li>
+                    <li><a href="http://bus.mapbar.com/kunming/xianlu/24lu/" target="_blank">圖吧昆明公交 24 昆明站北廣場(北京路)往绿荫大道路口(昆明西山万达广场) 1元</a></li>
+                    <li><a href="http://bus.mapbar.com/kunming/xianlu/110lu/" target="_blank">圖吧昆明公交 110 绿荫大道路口(昆明西山万达广场) 1元</a></li>
+                    <li><a href="http://bus.mapbar.com/kunming/poi/7x_8Dh5ad91J8tl5FZ00e6O66OE8b_5nn4u78--5v_5Sw00f" target="_blank">圖吧绿荫大道路口(昆明西山万达广场)經過公車</a></li>
+            </ul></div>
+            <div class="ct1">
+                <section>公交 110 双橋村可轉 1 號線福德站，公交 24 双龙商场者轉 2 號線環城南路站。</section>
+                <section>石林和九鄉都在昆明東邊，在宜良縣分往不同方向，往來要在宜良轉車。</section>
+            </div>
+        </div>
+        <div class="content" v-if="(date=='0428')" id="b0428">
+            <h1>石林</h1>
+            <div><ul>
+                <li><a href="https://trains.ctrip.com/TrainSchedule/kunming-shilin/" target="_blank">火車昆明-石林</a></li>
+                <li><a href="https://trains.ctrip.com/TrainSchedule/shilin-kunming/" target="_blank">火車石林-昆明</a></li>
+                <li><a href="https://kknews.cc/zh-tw/travel/2mpxn3r.html" target="_blank">KKNews</a></li>
+                <li><a href="http://www.chinastoneforest.com/showArticle.aspx?cid=27&aid=8678" target="_blank">石林旅遊網</a></li>
+                <li><a href="https://kknews.cc/zh-tw/travel/2mpxn3r.html" target="_blank">KKNews</a></li>
+                <li><a href="http://www.mafengwo.cn/gonglve/ziyouxing/20154.html" target="_blank">馬蜂窩</a></li>
+            </ul></div>
+            <div class="ct1">
+                <section>昆明或昆明南站乘高鐵至石林西站轉公交 99 石林景區旅遊專線。</section>
+                <section>石林和九鄉都在昆明東邊，在宜良縣分往不同方向，往來要在宜良轉車。</section>
+            </div>
+            <hr>
+            <h1>九鄉</h1>
+            <div><ul>
+                <li><a href="https://kknews.cc/zh-tw/travel/2mpxn3r.html" target="_blank">KKNews</a></li>
+                <li><a href="https://kknews.cc/travel/xra2k3o.html" target="_blank">宜良客運站石林到九鄉</a></li>
+                <li><a href="https://map.baidu.com/search/%E4%B9%9D%E4%B9%A1%E9%A3%8E%E6%99%AF%E5%8C%BA-%E6%B8%B8%E5%AE%A2%E4%B8%AD%E5%BF%83/@11509179.165,2866580.44,19z?querytype=s&da_src=shareurl&wd=%E4%B9%9D%E4%B9%A1%E9%A3%8E%E6%99%AF%E5%8C%BA-%E6%B8%B8%E5%AE%A2%E4%B8%AD%E5%BF%83&c=104&src=0&wd2=%E6%98%86%E6%98%8E%E5%B8%82%E5%AE%9C%E8%89%AF%E5%8E%BF&pn=0&sug=1&l=19&b=(11483548.655,2847894.34;11484508.655,2848377.34)&from=webmap&biz_forward=%7B%22scaler%22:1,%22styles%22:%22pl%22%7D&sug_forward=fd776b5086e61db201897230&device_ratio=1" target="_blank">九鄉風景區</a></li>
+            </ul></div>
+            <div class="ct1">
+                <ol>
+                    <li>從昆明市區乘車到昆明東部汽車客運站（東部公交樞紐站）火車站，機場，昆明各大客運站均有公交車到東部汽車客運站。票價2到5元不等。乘車用時大概：60分鐘。</li>
+                    <li>東部客運站購買到宜良縣的車票（25元左右），乘車用時大概：60分鐘。55公里左右。</li>
+                    <li>到達宜良客運站，購買宜良到九鄉風景區的車票（10元），乘車用時大概：70分鐘。35公里左右。九鄉鎮不下，九鄉風景區下。</li>
+                </ol>
+            </div>
+            <hr>
+            <h1>宜良</h1>
+            <div class="ct1">
+                <a href="https://map.baidu.com/search/%E5%AE%9C%E8%89%AF%E5%AE%A2%E8%BF%90%E7%AB%99/@11483888.606920173,2848766.991935,19z?querytype=s&da_src=shareurl&wd=%E5%AE%9C%E8%89%AF%E5%AE%A2%E8%BF%90%E7%AB%99&c=104&src=0&wd2=%E6%98%86%E6%98%8E%E5%B8%82%E5%AE%9C%E8%89%AF%E5%8E%BF&pn=0&sug=1&l=12&b=(11428834.924881661,2838796.863265971;11528325.587679898,2888853.1029863334)&from=webmap&biz_forward=%7B%22scaler%22:1,%22styles%22:%22pl%22%7D&sug_forward=e6b8e0345f3b54ba631c6789&device_ratio=1" target="_blank">宜良縣百度地圖</a>
+                <br>
+                <a href="https://www.amap.com/dir?from%5Badcode%5D=530125&from%5Bname%5D=%E5%AE%9C%E8%89%AF%E4%B9%9D%E4%B9%A1%E9%A3%8E%E6%99%AF%E5%8C%BA&from%5Bid%5D=B036707I9Z-from&from%5Bpoitype%5D=110202&from%5Blnglat%5D=103.387449%2C25.079396&from%5Bmodxy%5D=103.380496%2C25.068584&to%5Badcode%5D=530126&to%5Bname%5D=%E4%BA%91%E5%8D%97%E7%9C%81%E6%98%86%E6%98%8E%E5%B8%82%E7%9F%B3%E6%9E%97%E5%BD%9D%E6%97%8F%E8%87%AA%E6%B2%BB%E5%8E%BF&to%5Bid%5D=5301261555384416191-to&to%5Bpoitype%5D=&to%5Blnglat%5D=103.29078500000003%2C24.771798&to%5Bmodxy%5D=&type=car&policy=1&dateTime=now" target="_blank">高德地圖 - 九鄉到石林路線</a>
+                <br>
+                <a href="http://bus.mapbar.com/kunming/xianlu/kunmingyiliangbanxian1lu/" target="_blank">昆明到宜良1路 (東部客運站出發)</a>
+                <br>
+                <a href="http://bus.mapbar.com/kunming/xianlu/kunmingyiliangbanxian2lu/" target="_blank">昆明到宜良2路 (新册公交樞紐出發)</a>
+            </div>
+            <h3>回飯店</h3>
+            <div class="ct1">
+                <a href="https://www.amap.com/dir?from%5Bname%5D=%E6%98%86%E6%98%8E%E5%B8%82%E8%99%B9%E6%A1%A5%E8%B7%AF&from%5Bid%5D=menufrom&from%5Badcode%5D=530103&from%5Bpoitype%5D=&from%5Blnglat%5D=102.788754%2C25.035758&from%5Bmodxy%5D=&to%5Bname%5D=%E6%98%86%E6%98%8E%E5%B8%82%E5%89%8D%E5%85%B4%E8%B7%AF&to%5Bid%5D=menuto&to%5Badcode%5D=530112&to%5Bpoitype%5D=&to%5Blnglat%5D=102.709629%2C25.006026&to%5Bmodxy%5D=&type=bus&policy=0&dateTime=now" target="_blank">東部汽車站搭地鐵至東風廣場下車轉公交 3 南太桥(青年路) 回飯店。</a>
+                <br>
+                <a href="http://bus.mapbar.com/kunming/xianlu/3lu/" target="_blank">圖吧昆明公交 3</a>
+            </div>
+        </div>
+        <div class="content" v-if="(date=='0429')" id="b0429">
+            <h1>滇池</h1>
+            <div class="ct1">
+                <ul>
+                    <li>1号线在环城南路站下，然后去公交车站坐44路车终点就是海埂公园（滇池）</li>
+                    <li><a href="https://www.amap.com/search?id=B036702E39&city=530112&geoobj=121.316802%7C24.925145%7C121.811186%7C25.169618&query_type=IDQ&query=%E6%BB%87%E6%B1%A0%E6%B5%B7%E5%9F%82%E5%85%AC%E5%9B%AD&zoom=12" target="_blank">高德地圖 - 滇池</a></li>
+                    <li><a href="https://www.amap.com/dir?from%5Bname%5D=%E6%98%86%E6%98%8E%E5%B8%82%E4%BA%8C%E7%8E%AF%E5%8D%97%E8%B7%AF&from%5Bid%5D=menufrom-from&from%5Badcode%5D=530111&from%5Bpoitype%5D=&from%5Blnglat%5D=102.72053%2C25.014328&from%5Bmodxy%5D=&to%5Bname%5D=%E6%98%86%E6%98%8E%E5%B8%82%E6%B9%96%E6%BB%A8%E8%B7%AF&to%5Bid%5D=menuto-to&to%5Badcode%5D=530112&to%5Bpoitype%5D=&to%5Blnglat%5D=102.659547%2C24.958969&to%5Bmodxy%5D=&type=bus&policy=0&dateTime=now" target="_blank">高德地圖-公交-昆明站-滇池</a></li>
+                    <li><a href="http://bus.mapbar.com/kunming/xianlu/44lu/" target="_blank">圖吧昆明公交 44 路</a></li>
+                </ul>
+            </div>
+            <h1>西山風景區</h1>
+            <div class="ct1">
+                <ul>
+                    <li><a href="https://kunming.8684.cn/x_6a0bafe8" target="_blank">掌上昆明公交 94 路滇池西山公車</a></li>
+                    <li><a href="http://bus.mapbar.com/kunming/xianlu/94lu/" target="_blank">圖吧昆明公交 94 路</a></li>
+                    <li><a href="http://bus.mapbar.com/kunming/xianlu/24lu/" target="_blank">圖吧昆明公交 24 路</a></li>
+                    <li><a href="https://kknews.cc/zh-tw/travel/p8qgex8.html" target="_blank">KKNews</a></li>
+                    <li><a href="http://blueting723.pixnet.net/blog/post/459947665-%E9%9B%B2%E5%8D%97%E6%98%86%E6%98%8E%E3%80%8A%E8%A5%BF%E5%B1%B1%E9%BE%8D%E9%96%80%E3%80%8B%E5%85%AC%E4%BA%A4%E8%BB%8A%E6%90%AD%E4%B9%98%E6%94%BB%E7%95%A5%E3%80%8188%E5%85%83" target="_blank">PIXNET</a></li>
+                    <li><a href="https://www.amap.com/search?id=B0367065GU&city=530112&geoobj=102.573142%7C24.945906%7C102.696767%7C25.007073&query_type=IDQ&query=%E8%A5%BF%E5%B1%B1%E9%A3%8E%E6%99%AF%E5%8C%BA&zoom=14" target="_blank">高德地圖 - 西山風景區</a></li>
+                    <li><a href="https://www.amap.com/dir?from%5Bname%5D=%E6%98%86%E6%98%8E%E5%B8%82%E4%BA%8C%E7%8E%AF%E5%8D%97%E8%B7%AF&from%5Bid%5D=menufrom-from&from%5Badcode%5D=530111&from%5Bpoitype%5D=&from%5Blnglat%5D=102.72053%2C25.014328&from%5Bmodxy%5D=&to%5Bid%5D=B0367065GU&to%5Bname%5D=%E8%A5%BF%E5%B1%B1%E9%A3%8E%E6%99%AF%E5%8C%BA&to%5Blnglat%5D=102.623565%2C24.969733&to%5Bmodxy%5D=102.618523%2C24.984492&to%5Bpoitype%5D=110202&to%5Badcode%5D=530112&type=bus&policy=0&dateTime=now" target="_blank">高德地圖-公交-昆明站-西山風景區</a></li>
+                    <li><a href="https://www.amap.com/dir?from%5Bname%5D=%E6%98%86%E6%98%8E%E5%B8%82%E6%B9%96%E6%BB%A8%E8%B7%AF&from%5Bid%5D=menuto-from&from%5Badcode%5D=530112&from%5Bpoitype%5D=&from%5Blnglat%5D=102.659547%2C24.958969&from%5Bmodxy%5D=&to%5Bid%5D=B0367065GU-to&to%5Bname%5D=%E8%A5%BF%E5%B1%B1%E9%A3%8E%E6%99%AF%E5%8C%BA&to%5Blnglat%5D=102.623565%2C24.969733&to%5Bmodxy%5D=102.618523%2C24.984492&to%5Bpoitype%5D=110202&to%5Badcode%5D=530112&type=car&policy=1&dateTime=now" target="_blank">高德地圖-公路-滇池-西山風景區</a></li>
+                </ul>
+            </div>
+            <div class="ct1">
+                <ol>
+                    <li>公交 94 路可往來滇池海埂旅遊索道、龍門村</li>
+                    <li>公交 24 路可由绿荫大道路口(昆明西山万达广场)往來海埂公园(滇池路)</li>
+                </ol>
+            </div>
+        </div>
+        <div class="content" id="b0430">
+            <h1>大理古城</h1>
+            <div class="ct1">
+                <ul>
+                    <li><a href="http://bus.mapbar.com/dali/xianlu/8lu/" target="_blank">大理公交 8 路 1.5 元</a></li>
+                    <li><a href="http://bus.mapbar.com/dali/xianlu/4lu/" target="_blank">大理公交 4 路</a></li>
+                    <li><a href="http://bus.mapbar.com/dali/xianlu/19lu/" target="_blank">大理公交 19 路 1 元</a></li>
+                    <li><a href="http://dali.gongjiao.com/search?k1=%E4%B8%89%E5%A1%94%E4%B8%93%E7%BA%BF&type=line" target="_blank">公交網三塔專線</a></li>
+                    <li><a href="https://map.baidu.com/search/@11151992.501478055,2937604.7249999875,13.97z?querytype=bsl&bsltp=0&uid=482519326770bf8bf6c59c36&c=111&da_src=shareurl" target="_blank">百度崇聖寺三塔專線-火車站-三塔</a></li>
+                    <li><a href="https://www.amap.com/dir?from%5Bname%5D=%E5%A4%A7%E7%90%86%E7%99%BD%E6%97%8F%E8%87%AA%E6%B2%BB%E5%B7%9E%E4%BA%BA%E6%B0%91%E8%B7%AF&from%5Bid%5D=menufrom&from%5Badcode%5D=532901&from%5Bpoitype%5D=&from%5Blnglat%5D=100.164478%2C25.694187&from%5Bmodxy%5D=&to%5Bname%5D=%E5%A4%A7%E7%90%86%E7%99%BD%E6%97%8F%E8%87%AA%E6%B2%BB%E5%B7%9E%E6%96%87%E7%AC%94%E8%B7%AF&to%5Bid%5D=menuto&to%5Badcode%5D=532901&to%5Bpoitype%5D=&to%5Blnglat%5D=100.15135%2C25.705411&to%5Bmodxy%5D=&type=bus&policy=0&dateTime=now" target="_blank">高德地圖-大理古城到三塔</a></li>
+                    <li><a href="https://map.baidu.com/poi/%E5%90%BE%E4%B9%A1%E5%AF%BB%E5%B9%BD%C2%B7%E9%9A%90%E5%A5%A2%E9%85%92%E5%BA%97/@11150556.035000004,2943046.775000012,21z?uid=9431d22fb073db762efaa798&info_merge=1&isBizPoi=false&ugc_type=3&ugc_ver=1&device_ratio=1&compat=1&querytype=detailConInfo&da_src=shareurl" target="_blank">百度地圖吾乡寻幽:古城人民路上段22号</a></li>
+                    <li><a href="https://www.amap.com/search?query=%E5%90%BE%E4%B9%A1%E5%AF%BB%E5%B9%BD%C2%B7%E9%9A%90%E5%A5%A2%E9%85%92%E5%BA%97&city=532900&geoobj=99.978967%7C25.64537%7C100.463204%7C25.883406&zoom=12.03" target="_blank">高德地圖吾乡寻幽</a></li>
+                    <li><a href="https://www.amap.com/dir?from%5Bname%5D=%E5%A4%A7%E7%90%86%E7%99%BD%E6%97%8F%E8%87%AA%E6%B2%BB%E5%B7%9E%E7%8E%89%E6%B4%B1%E8%B7%AF&from%5Bid%5D=menufrom-from&from%5Badcode%5D=532901&from%5Bpoitype%5D=&from%5Blnglat%5D=100.158234%2C25.694767&from%5Bmodxy%5D=&to%5Bname%5D=%E5%A4%A7%E7%90%86%E7%99%BD%E6%97%8F%E8%87%AA%E6%B2%BB%E5%B7%9E%E4%BA%BA%E6%B0%91%E8%B7%AF&to%5Bid%5D=menuto-to&to%5Badcode%5D=532901&to%5Bpoitype%5D=&to%5Blnglat%5D=100.15951%2C25.692109&to%5Bmodxy%5D=&type=walk&policy=0&dateTime=now" target="_blank">高德地圖博愛路口站走到吾乡寻幽</a></li>
+                </ul>
+            </div>
+            <div class="ct1">
+                <ol>
+                    <li>大理火車站乘公交 8 可到大理古城，票價 1.5 元。</li>
+                    <li>人民路口站大理公交 4 往大理北門、公交 19 往三塔公園。</li>
+                    <li>崇聖寺三塔專線在人民路口站下車為大理古城西門附近。</li>
+                    <li>吾乡寻幽在古城自助游览车2号线人民路站，或搭大理公交 8 到博愛路口站下車往南走 350 公尺。</li>
+                </ol>
+            </div>
+        </div>
+        <div class="content" id="b0501">
+            <h1>龙龛生态码头</h1>
+            <div>
+                <ul>
+                    <li><a href="https://www.amap.com/search?id=B0FFI6ZBLL&city=532901&geoobj=100.202179%7C25.692242%7C100.221363%7C25.701677&query_type=IDQ&query=%E9%BE%99%E9%BE%9B%E7%A0%81%E5%A4%B4&zoom=16.69" target="_blank">高德地圖-龙龛码头</a></li>
+                    <li><a href="https://piao.ctrip.com/ticket/dest/t2478869.html?allianceid=866656&sid=1435004" target="_blank">攜程網-洱海游船 (龙龛生态码头)</a></li>
+                    <li><a href="https://baike.baidu.com/item/%E6%B4%B1%E6%B5%B7%E6%B8%B8%E8%88%B9/9756494" target="_blank">百度百科洱海游船</a></li>
+                    <li><a href="http://dali.gongjiao.com/xianlu_12658" target="_blank">人民路口大理古城C2線往來才村碼頭洱海公園</a></li>
+                </ul>
+            </div>
+            <h1>双廊</h1>
+            <div>
+                <ul>
+                    <li><a href="https://www.amap.com/search?id=B036814RT7&city=532901&geoobj=100.141912%7C25.691151%7C100.172843%7C25.706363&query_type=IDQ&query=%E5%8F%8C%E5%BB%8A%E5%8F%A4%E9%95%87&zoom=16" target="_blank">高德地圖-双廊古镇</a></li>
+                    <li><a href="https://baike.baidu.com/item/%E5%8D%97%E8%AF%8F%E9%A3%8E%E6%83%85%E5%B2%9B" target="_blank">百度百科南诏风情岛</a></li>
+                    <li><a href="http://www.mafengwo.cn/poi/17041.html" target="_blank">馬蜂窩南诏风情岛</a></li>
+                    <li><a href="" target="_blank"></a></li>
+                    <li><a href="" target="_blank"></a></li>
+                </ul>
+            </div>
+            <div class="ct1">
+                <ol>
+                    <li>大理客運北站才有車到双廊，需搭公交 4、8 前往，票價 16~20 元。大理古城遊客中心有不定期往双廊班車，票價 55 元。</li>
+                    <li>大理古城外風花雪月大酒店對面大麗路有下關往雙廊的非公交巴士，約 40 分鐘一班需招手停車。</li>
+                    <li>洱海遊船到双廊可在大理港或龙龛码头登船至南诏风情岛，才村碼頭多為黑船。</li>
+                    <li>喜州在桃源碼頭，若遊船有停靠可登岸。</li>
+                </ol>
+            </div>
+            <h1>大理茵画海景花园酒店</h1>
+            <div class="ct1">
+                <ul>
+                    <li><a href="https://www.mafengwo.cn/hotel/9129604.html" target="_blank">馬蜂窩 - 大理茵画海景花园酒店 - 大理市环海西路银桥镇马久邑十社</a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="content" id="b0502">
+            <h1>丽江和府洲际度假酒店</h1>
+            <div><ul>
+                <li><a href="https://map.baidu.com/search/%E4%B8%BD%E6%B1%9F%E5%92%8C%E5%BA%9C%E6%B4%B2%E9%99%85%E5%BA%A6%E5%81%87%E9%85%92%E5%BA%97/@11159152.001763498,3087983.938245,19z?querytype=s&da_src=shareurl&wd=%E4%B8%BD%E6%B1%9F%E5%92%8C%E5%BA%9C%E6%B4%B2%E9%99%85%E5%BA%A6%E5%81%87%E9%85%92%E5%BA%97&c=104&src=0&pn=0&sug=0&l=15&b=(11445540.80547804,2860948.4683575705;11458582.626091618,2867510.1343537765)&from=webmap&biz_forward=%7B%22scaler%22:1,%22styles%22:%22pl%22%7D&device_ratio=1" target="_blank">百度地圖-丽江和府洲际度假酒店</a></li>
+                <li><a href="https://www.amap.com/search?id=B03780HW4D&city=530702&geoobj=121.316802%7C24.925145%7C121.811186%7C25.169618&query_type=IDQ&query=%E4%B8%BD%E6%B1%9F%E5%92%8C%E5%BA%9C%E6%B4%B2%E9%99%85%E5%BA%A6%E5%81%87%E9%85%92%E5%BA%97&zoom=12" target="_blank">高德地圖-丽江和府洲际度假酒店</a></li>
+                <li><a href="https://map.baidu.com/dir/%E4%BA%91%E5%8D%97%E7%9C%81%E4%B8%BD%E6%B1%9F%E5%B8%82%E7%8E%89%E9%BE%99%E7%BA%B3%E8%A5%BF%E6%97%8F%E8%87%AA%E6%B2%BB%E5%8E%BF/%E4%BA%91%E5%8D%97%E7%9C%81%E4%B8%BD%E6%B1%9F%E5%B8%82%E5%8F%A4%E5%9F%8E%E5%8C%BA%E7%A5%A5%E5%92%8C%E8%B7%AF301/@11159068.779995253,3087572.0223927037,19.25z?querytype=bt&bttp=0&c=114&sy=0&en=1$$$$11159221,3087792$$%E4%BA%91%E5%8D%97%E7%9C%81%E4%B8%BD%E6%B1%9F%E5%B8%82%E5%8F%A4%E5%9F%8E%E5%8C%BA%E7%A5%A5%E5%92%8C%E8%B7%AF301$$$$$$&sn=1$$$$11160927,3081099$$%E4%BA%91%E5%8D%97%E7%9C%81%E4%B8%BD%E6%B1%9F%E5%B8%82%E7%8E%89%E9%BE%99%E7%BA%B3%E8%A5%BF%E6%97%8F%E8%87%AA%E6%B2%BB%E5%8E%BF$$$$$$&sq=%E4%BA%91%E5%8D%97%E7%9C%81%E4%B8%BD%E6%B1%9F%E5%B8%82%E5%8F%A4%E5%9F%8E%E5%8C%BA%E7%A5%A5%E5%92%8C%E8%B7%AF301&eq=%E4%BA%91%E5%8D%97%E7%9C%81%E4%B8%BD%E6%B1%9F%E5%B8%82%E7%8E%89%E9%BE%99%E7%BA%B3%E8%A5%BF%E6%97%8F%E8%87%AA%E6%B2%BB%E5%8E%BF&exptype=dep&exptime=2019-04-17%2014:20&version=5&da_src=shareurl" target="_blank">百度-麗江火車站到飯店公交在大研中學或忠義市場下車</a></li>
+                <li><a href="http://lijiang.gongjiao.com/xianlu_12675" target="_blank">麗江公交 18 路火車站搭到大研中學</a></li>
+                <li><a href="http://lijiang.gongjiao.com/zhandian_110432" target="_blank">昭庆市场-酒店前站牌經過公車 2,3,7,12,14,27</a></li>
+                <li><a href="http://bus.mapbar.com/lijiang/xianlu/3lu/" target="_blank">昭庆市场- 3 往黑龍潭站</a></li>
+                <li><a href="" target="_blank"></a></li>
+                <li><a href="" target="_blank"></a></li>
+            </ul></div>
+            <div class="ct1">
+                <ol>
+                    <li>和府前有丽江玉龙雪山旅游巴士专线，</li>
+                </ol>
+            </div>
+        </div>
+        <div class="content" id="b0503">
+            <h1>丽江墅家玉庐设计师度假酒店</h1>
+            <div><ul>
+                <li><a href="https://map.baidu.com/search/%E4%B8%BD%E6%B1%9F%E5%A2%85%E5%AE%B6%E7%8E%89%E5%BA%90%E8%AE%BE%E8%AE%A1%E5%B8%88%E5%BA%A6%E5%81%87%E9%85%92%E5%BA%97/@11156248.646684632,3106262.772445,18.49z?querytype=s&da_src=shareurl&wd=%E4%B8%BD%E6%B1%9F%E5%A2%85%E5%AE%B6%E7%8E%89%E5%BA%90%E8%AE%BE%E8%AE%A1%E5%B8%88%E5%BA%A6%E5%81%87%E9%85%92%E5%BA%97&c=114&src=0&pn=0&sug=0&l=13&b=(11121713.484007847,3091568.6697017034;11183058.11895068,3122432.689157317)&from=webmap&biz_forward=%7B%22scaler%22:1,%22styles%22:%22pl%22%7D&device_ratio=1" target="_blank">百度地圖-丽江墅家玉庐设计师度假酒店</a></li>
+                <li><a href="https://www.amap.com/search?id=B0FFIQ2RDB&city=530721&geoobj=100.234576%7C26.860885%7C100.245918%7C26.866407&query_type=IDQ&query=%E5%9C%A8%E9%9B%AA%E5%B1%B1%C2%B7%E4%B8%BD%E6%B1%9F%E5%A2%85%E5%AE%B6%E7%8E%89%E5%BA%90%E8%AE%BE%E8%AE%A1%E5%B8%88%E5%BA%A6%E5%81%87%E9%85%92%E5%BA%97&zoom=17.45" target="_blank">高德地圖-丽江墅家玉庐设计师度假酒店</a></li>
+                <li><a href="http://lijiang.gongjiao.com/xianlu_12676" target="_blank">麗江和府酒店前玉龙雪山旅游巴士专线，發車時間早上八點。</a></li>
+                <li><a href="http://map.sogou.com/bus/bus&1000127420362" target="_blank">從和府到丽江墅家玉庐设计师度假酒店 : 3 路昭慶市場至玉峰家屬院換 17 路玉湖村廣場站下車 1元。 </a></li>
+                <li><a href="" target="_blank"></a></li>
+                <li><a href="" target="_blank"></a></li>
+            </ul></div>
+            <h1>玉柱擎天玉湖村</h1>
+            <div><ul>
+                <li><a href="http://fresh438.pixnet.net/blog/post/44117340-%E4%B8%AD%E5%9C%8B%E5%A4%A7%E9%99%B8%E9%9B%B2%E5%8D%978%E6%97%A5%E9%81%8A%EF%BC%8C%E7%8E%89%E6%B9%96%E6%9D%91%EF%BC%88%E7%B4%8D%E8%A5%BF%E5%8F%A4%E6%9D%91%E8%90%BD%E9%A8%8E" target="_blank">PIXNET 玉湖村，不騎馬要買門票 230元，跑馬會加 20元。</a></li>
+            </ul></div>
+        </div>
+        <div class="content" id="b0504">
+            <h1>丽江悦尚高级私人客栈</h1>
+            <div><ul>
+                <li><a href="https://map.baidu.com/search/%E4%B8%BD%E6%B1%9F%E6%82%A6%E5%B0%9A%E9%AB%98%E7%BA%A7%E7%A7%81%E4%BA%BA%E5%AE%A2%E6%A0%88/@11159218.40034894,3088203.780879887,19z?querytype=s&da_src=shareurl&wd=%E4%B8%BD%E6%B1%9F%E6%82%A6%E5%B0%9A%E9%AB%98%E7%BA%A7%E7%A7%81%E4%BA%BA%E5%AE%A2%E6%A0%88&c=114&src=0&wd2=%E4%B8%BD%E6%B1%9F%E5%B8%82%E5%8F%A4%E5%9F%8E%E5%8C%BA&pn=0&sug=1&l=16&b=(11152339.50762047,3105489.4194727023;11157769.33604758,3108221.301900091)&from=webmap&biz_forward=%7B%22scaler%22:1,%22styles%22:%22pl%22%7D&sug_forward=5d71833a76a7c687b2077d68&device_ratio=1" target="_blank">百度地圖-丽江悦尚高级私人客栈</a></li>
+                <li><a href="https://www.amap.com/search?query=%E4%B8%BD%E6%B1%9F%E6%82%A6%E5%B0%9A%E9%AB%98%E7%BA%A7%E7%A7%81%E4%BA%BA%E5%AE%A2%E6%A0%88&city=532900&geoobj=100.124146%7C25.790294%7C100.262267%7C25.858155&zoom=13.84" target="_blank">高德地圖-丽江悦尚高级私人客栈</a></li>
+                <li><a href="" target="_blank"></a></li>
+            </ul></div>
+            <div class="ct1">
+                <ol>
+                    <li>丽江悦尚高级私人客栈 - 丽江七一街兴文巷88号。</li>
+                </ol>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
